@@ -21,7 +21,7 @@ Request body:
     "title": "User authentication",
     "description": "JWT authentication description...",
     "priority" : "low",
-    "deadline": "2011-12-03T10:15:30"
+    "deadline": "2025-12-03T10:15:30"
 }
 ```
 Response body:

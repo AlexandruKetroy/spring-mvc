@@ -36,4 +36,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
-/web-app/dependency-reduced-pom.xml
